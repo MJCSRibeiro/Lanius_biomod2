@@ -10,4 +10,5 @@ The following repository contains:
 **How to use**
 -
 
-Only the R script "_biomod2_github.R_" is required to download. The script automatically downloads the necessary files to run the analysis into a temporary folder in the user's drive. Packages between lines 7-24 are required to run the full modeling procedure, while packages between lines 25-
+Only the R script "_biomod2_github.R_" is required to download. The script automatically downloads the necessary files to run the analysis into a temporary folder in the user's drive.
+Packages between lines 7-24 are required to run the full modeling procedure, while packages between lines 25-29 are only used for more in-depth analysis and graphical outputs.
