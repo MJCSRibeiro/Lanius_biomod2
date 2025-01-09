@@ -5,7 +5,16 @@ The following repository contains:
 
   1. R script "_biomod2_github.R_"
   2. Occurrence data in "_Final qgis products_"
-  3. Environmental data in folders for "current" conditions and global change future scenarios (A1B & A2 for carbon emissions; MR & CS for global circulation models)
+       .Iberian Peninsula independent census data
+     
+       .European Breeding Bird Atlas 2 occurrence data
+       .GBIF occurrence data
+       .FULL data set that combines EBBA2 and GBIF occurrence data
+     
+       .poly10 uses a 10º buffer around breeding range polygon
+       .poly5 uses a 5º buffer around breeding range polygon
+       .squared uses a rectangular area based on max/min values of lat/long presence points
+  4. Environmental data in folders for "current" conditions and global change future scenarios (A1B & A2 for carbon emissions; MR & CS for global circulation models)
 
 **How to use**
 -
