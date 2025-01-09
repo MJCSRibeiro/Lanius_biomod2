@@ -4,7 +4,7 @@ This repository represents the bulk of the content used to model the breeding di
 The following repository contains:
 
   1. R script "_biomod2_github.R_" used to run the analysis
-  2. Occurrence data in "_Final qgis products_"
+  2. Occurrence data in the folder "_Final qgis products_" that contains:
 
        .Iberian Peninsula independent census data
      
