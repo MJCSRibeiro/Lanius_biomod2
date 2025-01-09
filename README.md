@@ -1,6 +1,6 @@
 **Modeling Breeding Distribution of the Red-backed Shrike (Lanius collurio) in Iberia**
 -
-This repository represents the bulk of the content used to model the breeding distribution of the Red-backed Shrike in this master thesis. 
+This repository represents the bulk of the content used to model the breeding distribution of the Red-backed Shrike in this master thesis.
 The following repository contains:
 
   1. R script "_biomod2_github.R_" used to run the analysis
@@ -39,10 +39,10 @@ All code after line 990 is used to provide a more in-depth analysis of the model
 **Outputs**
 -
 
-The script provided creates a temporary "Results" folder in the user's drive, found in "User\AppData\Local\Temp\". To access this folder it may be required to open the "Run" ("Executar" in portuguese) program and put in "appdata" as the folder you wish to open.
+The script provided creates a temporary "Results" folder in the user's drive, found in "User\AppData\Local\Temp\". To access this folder it may be required to open the "Run" ("Executar" in portuguese) program and write "appdata" as the folder you wish to open.
 
 The R script produces some files inside the temporary folder, including:
-  1. ".txt" files containing model accuracy metrics, variable importance for fitted models and predicted changes in the distribution caused by global change
-  2. ".asc" files that contain probability estimates for different models, binary presence-absence predictions and predicted range shifts in future scenarios
+  1. ".txt" files containing model accuracy metrics, variable importance for fitted models and predicted changes in the distribution caused by global change. Reading these files in RStudio or converting into an Excel table will improve readibility.
+  2. ".asc" files that contain probability estimates for different models, binary presence-absence predictions and predicted range shifts in future scenarios. These files can be opened in RStudio using the _raster_ package.
 
-Additionally, graphical outputs are also produced within the R Studio software "Plots" window. Some of these are automatically produced when running the main analysis, while others require users to further run code after line 990.
+Additionally, graphical outputs are also produced within the RStudio software "Plots" window. Some of these are automatically produced when running the main analysis, while others require users to further run code after line 990.
