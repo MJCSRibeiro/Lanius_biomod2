@@ -14,7 +14,7 @@ Only the R script "_biomod2_github.R_" is required to download. The script autom
 
 This analysis also requires the user to download the necessary R packages from R-CRAN repository listed in the first few lines of the script. Packages between lines 7-24 are required to run the full modeling procedure, while packages between lines 25-29 are only used for more in-depth analysis and graphical outputs.
 
-Between lines 60-94 of the script the user should select **only one** of the provided sampling area designs to run the analysis. A total of 4 sampling area designs were considered:
+Between lines 60-94 of the script the user should select **ONLY ONE** of the provided sampling area designs to run the analysis. A total of 4 sampling area designs were considered:
   1. "Original" area based on the migration route (lines 60-67)
   2. "Polygon 5º" which adds a 5º coordinate buffer to the known breeding range (lines 69-76)
   3. "Polygon 10º" which adds a 10º coordinate buffer to the known breeding range (lines 78-85)
