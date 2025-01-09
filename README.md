@@ -31,4 +31,4 @@ The code between lines 124-989 can be run afterwards without any further inputs 
 **Outputs**
 -
 
-The script provided creates a temporary "Results" folder in the user's drive, found in "User\AppData\Local\Temp\". To access this folder it may be required to open the "Run" ("Executar" in portuguese) program and put in "%appdata%" as the folder you wish to open.
+The script provided creates a temporary "Results" folder in the user's drive, found in "User\AppData\Local\Temp\". To access this folder it may be required to open the "Run" ("Executar" in portuguese) program and put in "appdata" as the folder you wish to open.
