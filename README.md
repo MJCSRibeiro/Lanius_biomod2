@@ -24,6 +24,6 @@ Between lines 60-94 of the script the user should select **ONLY ONE** of the pro
 
 Afterwards the code between lines 97-109 is required to save the Iberian Peninsula census data to an object.
 
-An additional **optional** step appears between lines 111-122 where the user can remove the Iberian Peninsula from the calibration dataset. This is not necessary to run the analysis and should be skipped unless the user wants to check the results from removing the IB from calibration.
+An additional **optional** step appears between lines 111-122 where the user can remove the Iberian Peninsula from the calibration dataset. This is not necessary to run the analysis and should be skipped unless the user wants to check the results from removing the Iberian Peninsula occurrence data from calibration.
 
 The code between lines 124-989 can be run afterwards without any further inputs from the user. All code after line 990 is used to provide a more in-depth analysis as well as create more detailed graphical outputs.
