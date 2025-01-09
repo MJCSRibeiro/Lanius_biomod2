@@ -39,4 +39,4 @@ The R script produces some files inside the temporary folder, including:
   1. ".txt" files containing model accuracy metrics, variable importance for fitted models and predicted changes in the distribution caused by global change
   2. ".asc" files that contain probability estimates for different models, binary presence-absence predictions and predicted range shifts in future scenarios
 
-Additionally, graphical outputs are also produced within the R Studio software.
+Additionally, graphical outputs are also produced within the R Studio software "Plots" window. Some of these are automatically produced when running the main analysis, while others require users to further run code after line 990.
