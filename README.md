@@ -1,9 +1,9 @@
 **Modeling Breeding Distribution of the Red-backed Shrike (Lanius collurio) in Iberia**
 -
-This repository represents the bulk of the content used to model the breeding distribution of the Red-backed Shrike in this master thesis.
+This repository represents the bulk of the content used to model the breeding distribution of the Red-backed Shrike in this master thesis. 
 The following repository contains:
 
-  1. R script "_biomod2_github.R_"
+  1. R script "_biomod2_github.R_" used to run the analysis
   2. Occurrence data in "_Final qgis products_"
 
        .Iberian Peninsula independent census data
