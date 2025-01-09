@@ -1,6 +1,6 @@
 **Modeling Breeding Distribution of the Red-backed Shrike (Lanius collurio) in Iberia**
 -
-
+This repository represents the bulk of the content used to model the breeding distribution of the Red-backed Shrike in this master thesis.
 The following repository contains:
 
   1. R script "_biomod2_github.R_"
@@ -35,8 +35,8 @@ All code after line 990 is used to provide a more in-depth analysis of the model
 
 The script provided creates a temporary "Results" folder in the user's drive, found in "User\AppData\Local\Temp\". To access this folder it may be required to open the "Run" ("Executar" in portuguese) program and put in "appdata" as the folder you wish to open.
 
-including:
-  1. A ".txt" file containing the biomod2 model accuracy metrics
-  2. Variable importance ".txt" files for all models fitted
-  3. ".asc" files that contain probability estimates for different models and predicted range shifts
+The R script produces some files inside the temporary folder, including:
+  1. ".txt" files containing model accuracy metrics, variable importance for fitted models and predicted changes in the distribution caused by global change
+  2. ".asc" files that contain probability estimates for different models, binary presence-absence predictions and predicted range shifts in future scenarios
 
+Additionally, graphical outputs are also produced within the R Studio software.
